@@ -1,6 +1,8 @@
 # 🏛️ The Wealth Gallery
 *Where history’s greatest minds teach the art of wealth.*
 
+🏆 Won MLH Best Use of ElevenLabs at WeHack UTD 2026
+
 ---
 
 ## 📌 Overview
